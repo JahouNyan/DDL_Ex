@@ -1,0 +1,21 @@
+Your data pre-processing steps
+The head() of the resulting data frame
+A plot of a time series of your choice, e.g. mean steps per day over all participants
+An analysis of one quantitative variable (e.g. mean steps, distance, calories of all participants), including:
+2 graphs of the distribution (e.g., histogram, box plot, density plot, violin plot)
+Summary statistics
+Verbal description of the distribution, including an investigation into its normality, skewness, outliers, etc.
+The relation of mean steps per participant with at least 2 other quantitative variables (e.g., how are steps related to weight, height).
+Correlation matrix including all 3 variables
+Scatter plots of your variable with the 2 other variables (2 scatter plots in total)
+Pearson’s correlation for the 2 relations
+Verbal description of the relations, including strength of the association, linearity, etc.
+The relation of mean steps per participant with a qualitative variable with two levels (e.g. gender, weekday vs weekend)
+Graphs of the relation (e.g. histogram, violin plot, bar plot)
+The result of a t-test
+Verbal description of the relation
+The relation between two qualitative variables
+Graphs of the relation (e.g., bar plot)
+Crosstable with relevant percentages
+Verbal description of the relations
+A one paragraph conclusion with a summary of your findings
